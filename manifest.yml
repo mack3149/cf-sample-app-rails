@@ -3,4 +3,4 @@ applications:
 - name: cf-rails
   memory: 512M
   instances: 1
-  random-route: true
+  host: irish_testing
