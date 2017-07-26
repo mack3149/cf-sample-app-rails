@@ -1,0 +1,6 @@
+---
+applications:
+- name: cf-rails
+  memory: 512M
+  instances: 1
+  host: irish_testing2
